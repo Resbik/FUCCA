@@ -1,0 +1,14 @@
+[37.451028824] 2018-10-21 03:18:38,132 - INFO - launcher: Starting sanity checks
+[37.950754166] 2018-10-21 03:18:38,132 - INFO - launcher: Checking for Python 3.5+
+[37.950754166] 2018-10-21 03:18:38,132 - INFO - launcher: Checking console encoding
+[37.950754166] 2018-10-21 03:18:38,132 - INFO - launcher: Setting console encoding to UTF-8
+[38.450002670] 2018-10-21 03:18:38,133 - INFO - launcher: Ensuring we're in the right environment
+[38.949251175] 2018-10-21 03:18:38,133 - INFO - launcher: Adding local bins/ folder to path
+[1274.328708649] 2018-10-21 03:18:39,369 - INFO - launcher: Required checks passed.
+[1278.823375702] 2018-10-21 03:18:39,373 - INFO - launcher: Optional checks passed.
+[1279.322385788] 2018-10-21 03:18:39,374 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[1.8745515346527100] 2018-10-21 03:18:39,969 - INFO - musicbot.config | In config.py::MainThread(12444), line 124 in run_checks: Using i18n: config/i18n/kr.json
+[1.8770487308502197] 2018-10-21 03:18:39,972 - DEBUG - musicbot.json | In json.py::MainThread(12444), line 8 in __init__: Init JSON obj with config/i18n/kr.json
